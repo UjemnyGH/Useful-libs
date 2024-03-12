@@ -142,6 +142,16 @@ void ulSoundClose(ul_sound_t* pSound) {
 
 #elif defined(_WIN32)
 
+#include <windows.h>
+#include <mmdeviceapi.h>
+#include <audioclient.h>
+#include <audiosessiontypes.h>
+#include <audiopolicy.h>
+
+#include <endpointvolume.h>
+#include <mmreg.h>
+#include <functiondiscoverykeys_devpkey.h>
+
 #endif
 
 #endif

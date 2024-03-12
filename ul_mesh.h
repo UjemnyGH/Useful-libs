@@ -26,7 +26,7 @@ enum {
     ULMtype_obj,
     ULMtype_stl,
 
-    ULMtype_END
+    ULMtype_END_DONT_USE
 };
 
 typedef struct ul_mesh_s {
