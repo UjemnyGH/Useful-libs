@@ -14,7 +14,7 @@ STB have nice table, so I firmly got inspired by it`s design
 |[ul_sound.h](ul_sound.h)        | audio         | wraps audio APIs (currently only [ALSA](https://github.com/alsa-project))
 |[ul_mesh.h](ul_mesh.h)          | 3D geometry   | Loads PLY/OBJ/STL meshes |
 |[ul_quick_gui.h](ul_quick_gui.h)| User interface| Create simple user interface (unfinished, don`t use) |
-|[ul_bitmap.h](ul_bitmap.h)      | Images procesdsing | Load BMP files      |
+|[ul_bitmap.h](ul_bitmap.h)      | Images processing | Load BMP files      |
 
 <hr>
 
