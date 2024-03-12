@@ -15,6 +15,7 @@ STB have nice table, so I firmly got inspired by it`s design
 |[ul_mesh.h](ul_mesh.h)          | 3D geometry   | Loads PLY/OBJ/STL meshes |
 |[ul_quick_gui.h](ul_quick_gui.h)| User interface| Create simple user interface (unfinished, don`t use) |
 |[ul_bitmap.h](ul_bitmap.h)      | Images processing | Load BMP files      |
+|[ul_math3d.h](ul_math3d.h)      | Math - Linear Algebra | Calculates matrices and vectors |
 
 <hr>
 
