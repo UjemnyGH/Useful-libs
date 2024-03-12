@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef _EFFECTIVE_MATH3D_
-#define _EFFECTIVE_MATH3D_
+#ifndef _UL_MATH3D_
+#define _UL_MATH3D_
 
 #include <math.h>
 
