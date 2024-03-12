@@ -32,7 +32,7 @@
 #define BM_BPP_24               0x18
 #define BM_BPP_32               0x20
 
-uint8_t* LoadBitmapFromFile(const char* filename, uint32_t* w, uint32_t* h) {
+uint8_t* ulLoadBitmapFromFile(const char* filename, uint32_t* w, uint32_t* h) {
     *w = 0;
     *h = 0;
 

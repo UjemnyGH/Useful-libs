@@ -33,7 +33,7 @@
 #define BM_BPP_24               0x18
 #define BM_BPP_32               0x20
 
-std::vector<uint8_t> LoadBitmapFromFile(std::string filename, uint32_t* w, uint32_t* h, bool recieveSizes = true) {
+std::vector<uint8_t> ulLoadBitmapFromFile(std::string filename, uint32_t* w, uint32_t* h, bool recieveSizes = true) {
     *w = 0;
     *h = 0;
 
